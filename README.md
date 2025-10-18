@@ -1,6 +1,6 @@
 # Why Smart Gadgets Are Useful and Important for Daily Life
 Our daily lives have been altered by the advent of [smart gadgets for home]([url](https://trusttora.in/)), affecting our work and personal lives. The convenience and security of these devices make life simpler and more secure.
-![Smart Gadget for Home](https://github.com/username/repo-name/blob/main/smart-gadget.jpg)
+![Smart Gadget for Home](https://github.com/prabhakarseo/smart-gadget-for-home/blob/main/Smart%20Gadget%20for%20home.png?raw=true)
 
 ## 1.
 Time-Saving Convenience.
